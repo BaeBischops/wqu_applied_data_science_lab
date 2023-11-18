@@ -3,6 +3,7 @@
 Welcome to the WQU Data Science Lab's machine learning projects repository. This repository contains a collection of projects exploring various domains across the globe. Each project focuses on applying machine learning techniques to analyze and derive insights from different datasets.
 
 <h3>Project Directories</h3>
+
 <ol>
     <li><b>Housing in Mexico</b></li>
     Explore the real estate market in Mexico, analyzing factors influencing housing prices.
@@ -21,3 +22,5 @@ Welcome to the WQU Data Science Lab's machine learning projects repository. This
     <li><b>Volatility Forecasting in India</b></li>
     Forecast volatility in financial markets in India, using machine learning to model and predict market fluctuations.
 </ol>
+
+<h3>About WQU Data Science Lab</h3>
