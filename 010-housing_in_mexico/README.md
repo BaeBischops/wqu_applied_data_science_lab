@@ -1,10 +1,11 @@
-# Housing in Mexico
+<h1>Housing in Mexico</h1>
 
-## Abstract 
-In this project, 21,000 properties dataset properties for sale in Mexico through the real estate website [Properati](Properati.com) were provided. The goal was to determine whether sale prices are influenced more by property size or location.
+<h3>Abstract</h3>
 
-## Introduction
-## Methods and Materials
-## Discussion
-## Conclusion 
+In this data science project, a dataset containing information on 21,000 properties listed for sale in Mexico was sourced from the [Properati real estate website](Properati.com). The project's core objective was to conduct a comprehensive analysis to ascertain the primary factors influencing sale prices. Specifically, the focus was on exploring the intricate relationship between property size and geographical location to discern the relative impact of these variables on the pricing dynamics within the real estate market.
+
+<h3>Introduction</h3>
+<h3>Methods and Materials</h3>
+<h3>Discussion</h3>
+<h3>Conclusion</h3> 
 
