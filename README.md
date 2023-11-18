@@ -24,3 +24,5 @@ Welcome to the WQU Data Science Lab's machine learning projects repository. This
 </ol>
 
 <h3>About WQU Data Science Lab</h3>
+
+The projects in this repository are part of the WQU Data Science Lab's initiative to provide hands-on experience in applying machine learning techniques to real-world problems. These projects are designed to enhance skills in data analysis, modeling, and interpretation.
